@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = MessageEncrypter::VERSION
   spec.authors     = ["g0ldan"]
   spec.email       = ["vgarpre@gmail.com"]
-  spec.homepage    = "TODO"
+  spec.homepage    = "https://github.com/g0ldanel/message_encrypter"
   spec.summary     = "Wrapper around ActiveSupport::MessageEncryptor"
   spec.description = "Wrapper around ActiveSupport::MessageEncryptor"
   spec.license     = "MIT"
